@@ -1,0 +1,13 @@
+name: perfil_usuario
+description: Um perfil simples de usuário
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/doguinho.jpg  # Referência para a imagem
